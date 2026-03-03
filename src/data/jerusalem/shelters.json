@@ -1,0 +1,3965 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2189683,
+          31.75959347
+        ]
+      },
+      "properties": {
+        "name": "Shelter 681",
+        "neighborhood": "Baka",
+        "address": "8 Efrayim St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 80,
+        "accessible": false,
+        "mapAddress": "8 Efrayim St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2188286,
+          31.75951784
+        ]
+      },
+      "properties": {
+        "name": "Shelter 682",
+        "neighborhood": "Baka",
+        "address": "14 Reuven St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 108,
+        "accessible": false,
+        "mapAddress": "14 Reuven St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2235262,
+          31.76002206
+        ]
+      },
+      "properties": {
+        "name": "Shelter 683",
+        "neighborhood": "Baka",
+        "address": "54 Hebron Rd, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 136,
+        "accessible": false,
+        "mapAddress": "54 Hebron Rd, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.22264,
+          31.75875
+        ]
+      },
+      "properties": {
+        "name": "Shelter 684",
+        "neighborhood": "Baka",
+        "address": "6 Esther HaMalka St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 236,
+        "accessible": false,
+        "mapAddress": "6 Esther HaMalka St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.22199465,
+          31.75722449
+        ]
+      },
+      "properties": {
+        "name": "Shelter 685",
+        "neighborhood": "Baka",
+        "address": "6 Mordechai HaYehudi St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 160,
+        "accessible": false,
+        "mapAddress": "6 Mordechai HaYehudi St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21989257,
+          31.75968621
+        ]
+      },
+      "properties": {
+        "name": "Shelter 836",
+        "neighborhood": "Baka",
+        "address": "27 Menashe St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 80,
+        "accessible": false,
+        "mapAddress": "27 Menashe St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21700545,
+          31.7551778
+        ]
+      },
+      "properties": {
+        "name": "Shelter 980",
+        "neighborhood": "Baka",
+        "address": "22 ​Rivka St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 80,
+        "accessible": false,
+        "mapAddress": "22 ​Rivka St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2212796,
+          31.76190746
+        ]
+      },
+      "properties": {
+        "name": "Shelter 984",
+        "neighborhood": "Baka",
+        "address": "11 Ya'el St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 128,
+        "accessible": false,
+        "mapAddress": "11 Ya'el St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.220897,
+          31.75755932
+        ]
+      },
+      "properties": {
+        "name": "Shelter 995",
+        "neighborhood": "Baka",
+        "address": "3 Levi St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 80,
+        "accessible": false,
+        "mapAddress": "3 Levi St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.18298046,
+          31.76591212
+        ]
+      },
+      "properties": {
+        "name": "Shelter 742",
+        "neighborhood": "Bayit VeGan",
+        "address": "7 Sha'arei Tora St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 216,
+        "accessible": false,
+        "mapAddress": "7 Sha'arei Tora St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.18451955,
+          31.76926455
+        ]
+      },
+      "properties": {
+        "name": "Shelter 743",
+        "neighborhood": "Bayit VeGan",
+        "address": "39 Bayit VaGan St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 92,
+        "accessible": false,
+        "mapAddress": "39 Bayit VaGan St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.19041839,
+          31.77512976
+        ]
+      },
+      "properties": {
+        "name": "Shelter 744",
+        "neighborhood": "Beit HaKerem",
+        "address": "4 HaBanai St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 136,
+        "accessible": false,
+        "mapAddress": "4 HaBanai St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1922193,
+          31.7775352
+        ]
+      },
+      "properties": {
+        "name": "Shelter 745",
+        "neighborhood": "Beit HaKerem",
+        "address": "30 HaBanai St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 136,
+        "accessible": false,
+        "mapAddress": "30 HaBanai St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.22139609,
+          31.79120318
+        ]
+      },
+      "properties": {
+        "name": "Shelter 841",
+        "neighborhood": "Beit Yisrael",
+        "address": "25 Yoel St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 80,
+        "accessible": false,
+        "mapAddress": "25 Yoel St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2232357,
+          31.79208743
+        ]
+      },
+      "properties": {
+        "name": "Shelter 908",
+        "neighborhood": "Beit Yisrael",
+        "address": "22 Shimshon Polanski St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 80,
+        "accessible": false,
+        "mapAddress": "22 Shimshon Polanski St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2176755,
+          31.79229011
+        ]
+      },
+      "properties": {
+        "name": "Shelter 609",
+        "neighborhood": "Bukharim",
+        "address": "23 Yisa Bracha St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 200,
+        "accessible": false,
+        "mapAddress": "23 Yisa Bracha St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.22089024,
+          31.78987955
+        ]
+      },
+      "properties": {
+        "name": "Shelter 612",
+        "neighborhood": "Bukharim",
+        "address": "16 Yoel St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 40,
+        "accessible": false,
+        "mapAddress": "16 Yoel St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21486308,
+          31.79171933
+        ]
+      },
+      "properties": {
+        "name": "Shelter 910",
+        "neighborhood": "Bukharim",
+        "address": "Ovadya St 22, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 80,
+        "accessible": false,
+        "mapAddress": "Ovadya St 22, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21512951956394,
+          31.785705163311736
+        ]
+      },
+      "properties": {
+        "name": "Shelter 639",
+        "neighborhood": "City Center",
+        "address": "2 Michel Pines St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 200,
+        "accessible": false,
+        "mapAddress": "2 Michel Pines St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21285728,
+          31.78310575
+        ]
+      },
+      "properties": {
+        "name": "Shelter 932",
+        "neighborhood": "City Center",
+        "address": "38 HaGilboa St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 80,
+        "accessible": false,
+        "mapAddress": "38 HaGilboa St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21665559,
+          31.77791035
+        ]
+      },
+      "properties": {
+        "name": "Shelter 973",
+        "neighborhood": "City Center",
+        "address": "5 HaRav Aviyada St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 80,
+        "accessible": false,
+        "mapAddress": "5 HaRav Aviyada St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 22,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2147312,
+          31.779882942244104
+        ]
+      },
+      "properties": {
+        "name": "Shelter 974",
+        "neighborhood": "City Center",
+        "address": "9 Shmuel Hanagid St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 80,
+        "accessible": false,
+        "mapAddress": "9 Shmuel Hanagid St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 23,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21869972,
+          31.78547133
+        ]
+      },
+      "properties": {
+        "name": "Shelter 985",
+        "neighborhood": "City Center",
+        "address": "13 Strauss St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 40,
+        "accessible": false,
+        "mapAddress": "13 Strauss St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 24,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.16359315,
+          31.76842599
+        ]
+      },
+      "properties": {
+        "name": "Shelter 903",
+        "neighborhood": "Ein Kerem",
+        "address": "82 Homat HaTzalafim St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 96,
+        "accessible": false,
+        "mapAddress": "82 Homat HaTzalafim St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21736907,
+          31.76506375
+        ]
+      },
+      "properties": {
+        "name": "Shelter 672",
+        "neighborhood": "Emek Refa'im",
+        "address": "10 Ruth St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 120,
+        "accessible": false,
+        "mapAddress": "10 Ruth St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 26,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21287922,
+          31.76565605
+        ]
+      },
+      "properties": {
+        "name": "Shelter 670",
+        "neighborhood": "Emek Refa'im",
+        "address": "9 Bostanai St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 112,
+        "accessible": false,
+        "mapAddress": "9 Bostanai St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 27,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21629892,
+          31.78075326
+        ]
+      },
+      "properties": {
+        "name": "Shelter 673",
+        "neighborhood": "Emek Refa'im",
+        "address": "3 Malal St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 91,
+        "accessible": false,
+        "mapAddress": "3 Malal St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 28,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.218209,
+          31.76617023
+        ]
+      },
+      "properties": {
+        "name": "Shelter 674",
+        "neighborhood": "Emek Refa'im",
+        "address": "7 Bachar St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 120,
+        "accessible": false,
+        "mapAddress": "7 Bachar St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.22099657,
+          31.76455263
+        ]
+      },
+      "properties": {
+        "name": "Shelter 676",
+        "neighborhood": "Emek Refa'im",
+        "address": "6 Emile Zola St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 80,
+        "accessible": false,
+        "mapAddress": "6 Emile Zola St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.22126489,
+          31.76403005
+        ]
+      },
+      "properties": {
+        "name": "Shelter 677",
+        "neighborhood": "Emek Refa'im",
+        "address": "6 Wyndham Deedes St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 232,
+        "accessible": false,
+        "mapAddress": "6 Wyndham Deedes St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 31,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21468592,
+          31.76274013
+        ]
+      },
+      "properties": {
+        "name": "Shelter 693",
+        "neighborhood": "Emek Refa'im",
+        "address": "9 Yotam St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 136,
+        "accessible": false,
+        "mapAddress": "9 Yotam St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 32,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21576369463253,
+          31.761035351663658
+        ]
+      },
+      "properties": {
+        "name": "Shelter 697",
+        "neighborhood": "Emek Refa'im",
+        "address": "68 Emek Refa'im St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 128,
+        "accessible": false,
+        "mapAddress": "68 Emek Refa'im St., Jerusalem, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 33,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21965502,
+          31.76488511
+        ]
+      },
+      "properties": {
+        "name": "Shelter 804",
+        "neighborhood": "Emek Refa'im",
+        "address": "8 HaMelits St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 80,
+        "accessible": false,
+        "mapAddress": "8 HaMelits St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 34,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.24163187,
+          31.80571068
+        ]
+      },
+      "properties": {
+        "name": "Shelter 998",
+        "neighborhood": "French Hill",
+        "address": "6 Aba Berdichev St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 80,
+        "accessible": false,
+        "mapAddress": "6 Aba Berdichev St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 35,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21556613,
+          31.76231446
+        ]
+      },
+      "properties": {
+        "name": "Shelter 695",
+        "neighborhood": "German Colony",
+        "address": "2 Amatsiya St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 200,
+        "accessible": false,
+        "mapAddress": "2 Amatsiya St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 36,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2196259,
+          31.78971852
+        ]
+      },
+      "properties": {
+        "name": "Shelter 621",
+        "neighborhood": "Geula",
+        "address": "8 Hoshe'a St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 80,
+        "accessible": false,
+        "mapAddress": "8 Hoshe'a St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 37,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21997837,
+          31.7877374
+        ]
+      },
+      "properties": {
+        "name": "Shelter 637",
+        "neighborhood": "Geula",
+        "address": "18 Nahman MiBreslev St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 80,
+        "accessible": false,
+        "mapAddress": "18 Nahman MiBreslev St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 38,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21721693,
+          31.7915136
+        ]
+      },
+      "properties": {
+        "name": "Shelter 830",
+        "neighborhood": "Geula",
+        "address": "25 Tsfanya St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 80,
+        "accessible": false,
+        "mapAddress": "25 Tsfanya St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 39,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2112935,
+          31.79038842
+        ]
+      },
+      "properties": {
+        "name": "Shelter 904",
+        "neighborhood": "Geula",
+        "address": "7 HaZayit St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 100,
+        "accessible": false,
+        "mapAddress": "7 HaZayit St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 40,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.20108822,
+          31.761363718452447
+        ]
+      },
+      "properties": {
+        "name": "Shelter 715",
+        "neighborhood": "Rassco - Givat HaVradim",
+        "address": "52 David Shimoni St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 144,
+        "accessible": false,
+        "mapAddress": "52 David Shimoni St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 41,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.20729202,
+          31.765473482943282
+        ]
+      },
+      "properties": {
+        "name": "Shelter 949",
+        "neighborhood": "Rassco - Givat HaVradim",
+        "address": "33 HaTayasim St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 80,
+        "accessible": false,
+        "mapAddress": "33 HaTayasim St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 42,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.19194561,
+          31.79066778
+        ]
+      },
+      "properties": {
+        "name": "Shelter 808",
+        "neighborhood": "Givat Shaul",
+        "address": "27 Yisrael Najara St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 80,
+        "accessible": false,
+        "mapAddress": "27 Yisrael Najara St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 43,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.17212095,
+          31.75304368
+        ]
+      },
+      "properties": {
+        "name": "Shelter 726",
+        "neighborhood": "Ir Ganim",
+        "address": "123 HaNurit St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 280,
+        "accessible": false,
+        "mapAddress": "123 HaNurit St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 44,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.17056825,
+          31.75457225
+        ]
+      },
+      "properties": {
+        "name": "Shelter 727",
+        "neighborhood": "Ir Ganim",
+        "address": "104 HaNurit St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 148,
+        "accessible": false,
+        "mapAddress": "104 HaNurit St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 45,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.17017787,
+          31.754851
+        ]
+      },
+      "properties": {
+        "name": "Shelter 728",
+        "neighborhood": "Ir Ganim",
+        "address": "102 HaNurit St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 148,
+        "accessible": false,
+        "mapAddress": "102 HaNurit St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 46,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.166039,
+          31.75350048
+        ]
+      },
+      "properties": {
+        "name": "Shelter 829",
+        "neighborhood": "Ir Ganim",
+        "address": "9 HaRakefet St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 32,
+        "accessible": false,
+        "mapAddress": "9 HaRakefet St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 47,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.16703205,
+          31.75303908
+        ]
+      },
+      "properties": {
+        "name": "Shelter 840",
+        "neighborhood": "Ir Ganim",
+        "address": "70 Costa Rica St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 32,
+        "accessible": true,
+        "mapAddress": "70 Costa Rica St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 48,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.16653153,
+          31.75927128
+        ]
+      },
+      "properties": {
+        "name": "Shelter 901",
+        "neighborhood": "Ir Ganim",
+        "address": "13 Iceland St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 120,
+        "accessible": false,
+        "mapAddress": "13 Iceland St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 49,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.16903666,
+          31.75487408
+        ]
+      },
+      "properties": {
+        "name": "Shelter 902",
+        "neighborhood": "Ir Ganim",
+        "address": "29 HaNurit St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 200,
+        "accessible": false,
+        "mapAddress": "29 HaNurit St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 50,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1708159,
+          31.75717138
+        ]
+      },
+      "properties": {
+        "name": "Shelter 905",
+        "neighborhood": "Ir Ganim",
+        "address": "1 HaNerd St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 110,
+        "accessible": false,
+        "mapAddress": "1 HaNerd St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 51,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.19382965,
+          31.75450818
+        ]
+      },
+      "properties": {
+        "name": "Shelter 718",
+        "neighborhood": "Katamon",
+        "address": "6 Rabbi Tzadok St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 96,
+        "accessible": false,
+        "mapAddress": "6 Rabbi Tzadok St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 52,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.19666642,
+          31.75640292
+        ]
+      },
+      "properties": {
+        "name": "Shelter 755",
+        "neighborhood": "Katamon",
+        "address": "3 Dov Hoz St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 80,
+        "accessible": false,
+        "mapAddress": "3 Dov Hoz St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 53,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1946299,
+          31.75628558
+        ]
+      },
+      "properties": {
+        "name": "Shelter 756",
+        "neighborhood": "Katamon",
+        "address": "1 San Martin St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 80,
+        "accessible": false,
+        "mapAddress": "1 San Martin St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 54,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.19787365,
+          31.75571857
+        ]
+      },
+      "properties": {
+        "name": "Shelter 757",
+        "neighborhood": "Katamon",
+        "address": "5 HaShomer St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 80,
+        "accessible": false,
+        "mapAddress": "5 HaShomer St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 55,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21082471,
+          31.76235525
+        ]
+      },
+      "properties": {
+        "name": "Shelter 805",
+        "neighborhood": "Katamon",
+        "address": "21 Yordei HaSira St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 296,
+        "accessible": false,
+        "mapAddress": "21 Yordei HaSira St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 56,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21228161870976,
+          31.760739429922552
+        ]
+      },
+      "properties": {
+        "name": "Shelter 817",
+        "neighborhood": "Katamon",
+        "address": "7 Yehoshua Ben Gamla St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 96,
+        "accessible": false,
+        "mapAddress": "7 Yehoshua Ben Gamla St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 57,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2086146,
+          31.7554334
+        ]
+      },
+      "properties": {
+        "name": "Shelter 824",
+        "neighborhood": "Katamon",
+        "address": "31 Rashbag St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 120,
+        "accessible": false,
+        "mapAddress": "31 Rashbag St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 58,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.20166873,
+          31.75360963
+        ]
+      },
+      "properties": {
+        "name": "Shelter 825",
+        "neighborhood": "Katamon",
+        "address": "24 Elazar Ben Yair St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 120,
+        "accessible": false,
+        "mapAddress": "24 Elazar Ben Yair St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21328746,
+          31.75971235
+        ]
+      },
+      "properties": {
+        "name": "Shelter 828",
+        "neighborhood": "Katamon",
+        "address": "10 HaRav Hasda St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 80,
+        "accessible": false,
+        "mapAddress": "10 HaRav Hasda St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 60,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1954492,
+          31.7562636
+        ]
+      },
+      "properties": {
+        "name": "Shelter 831",
+        "neighborhood": "Katamon",
+        "address": "7 Dov Hoz St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 120,
+        "accessible": false,
+        "mapAddress": "7 Dov Hoz St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 61,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.19538627,
+          31.75311816
+        ]
+      },
+      "properties": {
+        "name": "Shelter 842",
+        "neighborhood": "Katamon",
+        "address": "8 Bar Yochai St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 139,
+        "accessible": false,
+        "mapAddress": "8 Bar Yochai St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 62,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.19884543,
+          31.75430501
+        ]
+      },
+      "properties": {
+        "name": "Shelter 906",
+        "neighborhood": "Katamon",
+        "address": "2 Bar Yochai St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 80,
+        "accessible": false,
+        "mapAddress": "2 Bar Yochai St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 63,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.19636583,
+          31.75373649
+        ]
+      },
+      "properties": {
+        "name": "Shelter 965",
+        "neighborhood": "Katamon",
+        "address": "7 Yitzhak Sadeh St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 80,
+        "accessible": false,
+        "mapAddress": "7 Yitzhak Sadeh St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 64,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.209264,
+          31.75888667
+        ]
+      },
+      "properties": {
+        "name": "Shelter 967",
+        "neighborhood": "Katamon",
+        "address": "7 Antignos St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 80,
+        "accessible": false,
+        "mapAddress": "7 Antignos St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 65,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.20875076,
+          31.75687008
+        ]
+      },
+      "properties": {
+        "name": "Shelter 969",
+        "neighborhood": "Katamon",
+        "address": "16 Yossi Ben Yo'ezer St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 80,
+        "accessible": false,
+        "mapAddress": "16 Yossi Ben Yo'ezer St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 66,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.19197755,
+          31.75536971
+        ]
+      },
+      "properties": {
+        "name": "Shelter 976",
+        "neighborhood": "Katamon",
+        "address": "41 Avraham ElMaliach St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 40,
+        "accessible": true,
+        "mapAddress": "41 Avraham Elmaliach St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 67,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.192008203946784,
+          31.754341565568573
+        ]
+      },
+      "properties": {
+        "name": "Shelter 981",
+        "neighborhood": "Katamon",
+        "address": "27 Avraham Elmaliach St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 40,
+        "accessible": false,
+        "mapAddress": "27 Avraham Elmaliach St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 68,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.20898060394658,
+          31.759226774112687
+        ]
+      },
+      "properties": {
+        "name": "Shelter 987",
+        "neighborhood": "Katamon",
+        "address": "38 Yohanan Ben Zakai St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 80,
+        "accessible": false,
+        "mapAddress": "38 Yohanan Ben Zakai St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 69,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.17732316161951,
+          31.755479951365427
+        ]
+      },
+      "properties": {
+        "name": "Shelter 721",
+        "neighborhood": "Kiryat Yovel",
+        "address": "29 Uruguay St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 104,
+        "accessible": false,
+        "mapAddress": "29 Uruguay St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 70,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.17666523278302,
+          31.756374674113907
+        ]
+      },
+      "properties": {
+        "name": "Shelter 722",
+        "neighborhood": "Kiryat Yovel",
+        "address": "67 Avraham Stern St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 104,
+        "accessible": false,
+        "mapAddress": "67 Avraham Stern St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 71,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.17664425,
+          31.75424528
+        ]
+      },
+      "properties": {
+        "name": "Shelter 723",
+        "neighborhood": "Kiryat Yovel",
+        "address": "51 Avraham Stern St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 104,
+        "accessible": true,
+        "mapAddress": "51 Avraham Stern St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 72,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.17758566,
+          31.75837336
+        ]
+      },
+      "properties": {
+        "name": "Shelter 724",
+        "neighborhood": "Kiryat Yovel",
+        "address": "9 Volta Ilit St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 72,
+        "accessible": false,
+        "mapAddress": "9 Volta Ilit St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 73,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1704658,
+          31.76074271
+        ]
+      },
+      "properties": {
+        "name": "Shelter 736",
+        "neighborhood": "Kiryat Yovel",
+        "address": "8 Chile St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 160,
+        "accessible": false,
+        "mapAddress": "8 Chile St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 74,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1720983,
+          31.76016281
+        ]
+      },
+      "properties": {
+        "name": "Shelter 737",
+        "neighborhood": "Kiryat Yovel",
+        "address": "32 Janus Korczak St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 120,
+        "accessible": true,
+        "mapAddress": "32 Janus Korczak St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 75,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.17317009,
+          31.76217764
+        ]
+      },
+      "properties": {
+        "name": "Shelter 738",
+        "neighborhood": "Kiryat Yovel",
+        "address": "78 Anielewicz St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 72,
+        "accessible": false,
+        "mapAddress": "78 Anielewicz St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 76,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.17604607,
+          31.76613405
+        ]
+      },
+      "properties": {
+        "name": "Shelter 739",
+        "neighborhood": "Kiryat Yovel",
+        "address": "3 Schmorak St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 72,
+        "accessible": false,
+        "mapAddress": "3 Schmorak St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 77,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.17712367325539,
+          31.759254741248913
+        ]
+      },
+      "properties": {
+        "name": "Shelter 814",
+        "neighborhood": "Kiryat Yovel",
+        "address": "3 Volta Ilit St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 104,
+        "accessible": false,
+        "mapAddress": "3 Volta Ilit St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 78,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.17712367325539,
+          31.759254741248913
+        ]
+      },
+      "properties": {
+        "name": "Shelter 814",
+        "neighborhood": "Kiryat Yovel",
+        "address": "3 Volta Ilit St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 104,
+        "accessible": false,
+        "mapAddress": "3 Volta Ilit St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 79,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1752983,
+          31.76531568
+        ]
+      },
+      "properties": {
+        "name": "Shelter 815",
+        "neighborhood": "Kiryat Yovel",
+        "address": "2 Aharon Rabinovich St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 134,
+        "accessible": false,
+        "mapAddress": "2 Aharon Rabinovich St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 80,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1752983,
+          31.76531568
+        ]
+      },
+      "properties": {
+        "name": "Shelter 815",
+        "neighborhood": "Kiryat Yovel",
+        "address": "2 Aharon Rabinovich St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 136,
+        "accessible": false,
+        "mapAddress": "2 Aharon Rabinovich St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.17732240394631,
+          31.765835839299733
+        ]
+      },
+      "properties": {
+        "name": "Shelter 963",
+        "neighborhood": "Kiryat Yovel",
+        "address": "11 Yisrael Zangvill St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 80,
+        "accessible": false,
+        "mapAddress": "11 Yisrael Zangvill St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 82,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.176021603946715,
+          31.757286074113505
+        ]
+      },
+      "properties": {
+        "name": "Shelter 964",
+        "neighborhood": "Kiryat Yovel",
+        "address": "8 Meir Grunwald St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 144,
+        "accessible": false,
+        "mapAddress": "8 Meir Grunwald St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 83,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.177038619291835,
+          31.766576860739093
+        ]
+      },
+      "properties": {
+        "name": "Shelter 983",
+        "neighborhood": "Kiryat Yovel",
+        "address": "10 Gordon St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 80,
+        "accessible": true,
+        "mapAddress": "10 Gordon St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 84,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.17748120394628,
+          31.76325667411079
+        ]
+      },
+      "properties": {
+        "name": "Shelter 992",
+        "neighborhood": "Kiryat Yovel",
+        "address": "19 Etinger St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 80,
+        "accessible": false,
+        "mapAddress": "19 Etinger St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 85,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1746754,
+          31.76409128
+        ]
+      },
+      "properties": {
+        "name": "Shelter 993",
+        "neighborhood": "Kiryat Yovel",
+        "address": "3 Kleinman St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 80,
+        "accessible": false,
+        "mapAddress": "3 Kleinman St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 86,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1658768,
+          31.75615742
+        ]
+      },
+      "properties": {
+        "name": "Shelter 729",
+        "neighborhood": "Kiryat Menachem",
+        "address": "7 Dahomey St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 200,
+        "accessible": false,
+        "mapAddress": "7 Dahomey St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 87,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.16679340394644,
+          31.75827574153875
+        ]
+      },
+      "properties": {
+        "name": "Shelter 730",
+        "neighborhood": "Kiryat Menachem",
+        "address": "3 Dahomey St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 156,
+        "accessible": false,
+        "mapAddress": "3 Dahomey St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 88,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.16537727,
+          31.75967074
+        ]
+      },
+      "properties": {
+        "name": "Shelter 734",
+        "neighborhood": "Kiryat Menachem",
+        "address": "17 Iceland St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 104,
+        "accessible": true,
+        "mapAddress": "17 Iceland St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 89,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.16537727,
+          31.75967074
+        ]
+      },
+      "properties": {
+        "name": "Shelter 734",
+        "neighborhood": "Kiryat Menachem",
+        "address": "17 Iceland St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 136,
+        "accessible": true,
+        "mapAddress": "17 Iceland St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.166911617437314,
+          31.75954196351599
+        ]
+      },
+      "properties": {
+        "name": "Shelter 803",
+        "neighborhood": "Kiryat Menachem",
+        "address": "17 Henrietta Szold St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 90,
+        "accessible": false,
+        "mapAddress": "17 Henrietta Szold St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.16878,
+          31.75898
+        ]
+      },
+      "properties": {
+        "name": "Shelter 827",
+        "neighborhood": "Kiryat Menachem",
+        "address": "4 Mexico St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 80,
+        "accessible": false,
+        "mapAddress": "4 Mexico St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1973343,
+          31.78641411
+        ]
+      },
+      "properties": {
+        "name": "Shelter 977",
+        "neighborhood": "Kiryat Moshe",
+        "address": "23 Gat St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 80,
+        "accessible": false,
+        "mapAddress": "23 Gat St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.195550088599845,
+          31.787537495752257
+        ]
+      },
+      "properties": {
+        "name": "Shelter 978",
+        "neighborhood": "Kiryat Moshe",
+        "address": "13 HaRav Tzvi Yehuda St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 80,
+        "accessible": false,
+        "mapAddress": "13 HaRav Tzvi Yehuda St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.211043932782616,
+          31.767487095675378
+        ]
+      },
+      "properties": {
+        "name": "Shelter 667",
+        "neighborhood": "Kiryat Shmuel",
+        "address": "22 HaPalmach St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 144,
+        "accessible": false,
+        "mapAddress": "22 HaPalmach St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.212020503946185,
+          31.76784826023723
+        ]
+      },
+      "properties": {
+        "name": "Shelter 971",
+        "neighborhood": "Kiryat Shmuel",
+        "address": "16 HaPalmach St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 80,
+        "accessible": true,
+        "mapAddress": "16 HaPalmach St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.171552,
+          31.75252344
+        ]
+      },
+      "properties": {
+        "name": "Shelter 726",
+        "neighborhood": "Ir Ganim",
+        "address": "125 HaNurit St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 96,
+        "accessible": false,
+        "mapAddress": "125 HaNurit St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 97,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.17106527,
+          31.75270968
+        ]
+      },
+      "properties": {
+        "name": "Shelter 726",
+        "neighborhood": "Ir Ganim",
+        "address": "124 HaNurit St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 80,
+        "accessible": false,
+        "mapAddress": "124 HaNurit St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 98,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.20939807,
+          31.78336583
+        ]
+      },
+      "properties": {
+        "name": "Shelter 648",
+        "neighborhood": "Mahane Yehuda",
+        "address": "15 Nahar Prat St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 188,
+        "accessible": false,
+        "mapAddress": "15 Nahar Prat St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 99,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2136024,
+          31.78299762
+        ]
+      },
+      "properties": {
+        "name": "Shelter 821",
+        "neighborhood": "Mahane Yehuda",
+        "address": "24 Einayim LaMishpat St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 96,
+        "accessible": false,
+        "mapAddress": "24 Einayim LaMishpat St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 100,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21055875,
+          31.7827654
+        ]
+      },
+      "properties": {
+        "name": "Shelter 935",
+        "neighborhood": "Mahane Yehuda",
+        "address": "28 Be'er Sheva St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 136,
+        "accessible": false,
+        "mapAddress": "28 Be'er Sheva St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 101,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21112847,
+          31.78076286
+        ]
+      },
+      "properties": {
+        "name": "Shelter 961",
+        "neighborhood": "Mahane Yehuda",
+        "address": "17 Even Sapir St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 80,
+        "accessible": false,
+        "mapAddress": "17 Even Sapir St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 102,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1832669,
+          31.7556061
+        ]
+      },
+      "properties": {
+        "name": "Shelter 813",
+        "neighborhood": "Malha",
+        "address": "7 Kdoshei Struma St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 96,
+        "accessible": false,
+        "mapAddress": "7 Kdoshei Struma St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 103,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.22459891,
+          31.78581751
+        ]
+      },
+      "properties": {
+        "name": "Shelter 632",
+        "neighborhood": "Mea Shearim",
+        "address": "87 Mea Shearim St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 64,
+        "accessible": false,
+        "mapAddress": "87 Mea Shearim St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 104,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2253953,
+          31.78649294
+        ]
+      },
+      "properties": {
+        "name": "Shelter 826",
+        "neighborhood": "Mea She'arim",
+        "address": "6 Otsar HaSfarim St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 120,
+        "accessible": false,
+        "mapAddress": "6 Otsar HaSfarim St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 105,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21424313,
+          31.78927688
+        ]
+      },
+      "properties": {
+        "name": "Shelter 641",
+        "neighborhood": "Mekor Baruch",
+        "address": "25 Kfar Nahum St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 144,
+        "accessible": false,
+        "mapAddress": "25 Kfar Nahum St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 106,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21083998,
+          31.79060663
+        ]
+      },
+      "properties": {
+        "name": "Shelter 643",
+        "neighborhood": "Mekor Baruch",
+        "address": "73 Malkei Israel St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 320,
+        "accessible": false,
+        "mapAddress": "73 Malkei Israel St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 107,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.207423347544406,
+          31.788901763360464
+        ]
+      },
+      "properties": {
+        "name": "Shelter 812",
+        "neighborhood": "Mekor Baruch",
+        "address": "109 Rashi St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 88,
+        "accessible": false,
+        "mapAddress": "109 Rashi St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 108,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.16634432,
+          31.78743779
+        ]
+      },
+      "properties": {
+        "name": "Shelter 839",
+        "neighborhood": "Mekor Baruch",
+        "address": "14 Tashbatz St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 80,
+        "accessible": false,
+        "mapAddress": "14 Tashbatz St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 109,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.209420974531916,
+          31.788772024648548
+        ]
+      },
+      "properties": {
+        "name": "Shelter 909",
+        "neighborhood": "Mekor Baruch",
+        "address": "7 Yehuda HaMaccabi St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 96,
+        "accessible": false,
+        "mapAddress": "7 Yehuda HaMaccabi St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 110,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.22640406779709,
+          31.783101414895757
+        ]
+      },
+      "properties": {
+        "name": "Shelter 751",
+        "neighborhood": "Morasha",
+        "address": "10 HaAyin Het St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 80,
+        "accessible": false,
+        "mapAddress": "10 HaAyin Het St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 111,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.22675128802577,
+          31.781545038473322
+        ]
+      },
+      "properties": {
+        "name": "Shelter 752",
+        "neighborhood": "Morasha",
+        "address": "21 HaAyin Het St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 80,
+        "accessible": false,
+        "mapAddress": "21 HaAyin Het St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 112,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2270983,
+          31.78579592
+        ]
+      },
+      "properties": {
+        "name": "Shelter 753",
+        "neighborhood": "Morasha",
+        "address": "16 Kheil HaHandasa St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 80,
+        "accessible": false,
+        "mapAddress": "16 Kheil HaHandasa St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 113,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21119735,
+          31.77968218
+        ]
+      },
+      "properties": {
+        "name": "Shelter 657",
+        "neighborhood": "Nachlaot",
+        "address": "21 Tsfat St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 400,
+        "accessible": false,
+        "mapAddress": "21 Tsfat St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 114,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.20100356,
+          31.77218105
+        ]
+      },
+      "properties": {
+        "name": "Shelter 939",
+        "neighborhood": "Neve Sha'anan",
+        "address": "17 Neve Sha'anan St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 80,
+        "accessible": true,
+        "mapAddress": "17 Neve Sha'anan St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21380394627346,
+          31.766167065640484
+        ]
+      },
+      "properties": {
+        "name": "Shelter 671",
+        "neighborhood": "Old Katamon",
+        "address": "22 Kaf Tet BeNovember St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 128,
+        "accessible": true,
+        "mapAddress": "22 Kaf Tet BeNovember St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 116,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21325687,
+          31.76129246
+        ]
+      },
+      "properties": {
+        "name": "Shelter 696",
+        "neighborhood": "Old Katamon",
+        "address": "3 Reish Lakish St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 131,
+        "accessible": false,
+        "mapAddress": "3 Reish Lakish St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 117,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.20753835,
+          31.75967715
+        ]
+      },
+      "properties": {
+        "name": "Shelter 702",
+        "neighborhood": "Old Katamon",
+        "address": "12 Halafta St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 304,
+        "accessible": false,
+        "mapAddress": "12 Halafta St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 118,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.20489024,
+          31.7563287
+        ]
+      },
+      "properties": {
+        "name": "Shelter 703",
+        "neighborhood": "Old Katamon",
+        "address": "53 Yohanan Ben Zakai St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 136,
+        "accessible": false,
+        "mapAddress": "53 Yohanan Ben Zakai St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 119,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21380463,
+          31.76185405030013
+        ]
+      },
+      "properties": {
+        "name": "Shelter 923",
+        "neighborhood": "Old Katamon",
+        "address": "15 Elazar HaModa'i St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 80,
+        "accessible": false,
+        "mapAddress": "15 Elazar HaModa'i St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 120,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.20969289,
+          31.76174784
+        ]
+      },
+      "properties": {
+        "name": "Shelter 937",
+        "neighborhood": "Old Katamon",
+        "address": "38 Hizkiyahu HaMelech St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 80,
+        "accessible": false,
+        "mapAddress": "38 Hizkiyahu HaMelech St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 121,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21411710394585,
+          31.775601398716745
+        ]
+      },
+      "properties": {
+        "name": "Shelter 658",
+        "neighborhood": "Rehavia",
+        "address": "13 Ibn Ezra St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 64,
+        "accessible": false,
+        "mapAddress": "13 Ibn Ezra St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 122,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2153943174367,
+          31.775111057369614
+        ]
+      },
+      "properties": {
+        "name": "Shelter 659",
+        "neighborhood": "Rehavia",
+        "address": "15 Ibn Gabirol St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 128,
+        "accessible": false,
+        "mapAddress": "15 Ibn Gabirol St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 123,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2107287751096,
+          31.77325643710173
+        ]
+      },
+      "properties": {
+        "name": "Shelter 809",
+        "neighborhood": "Rehavia",
+        "address": "9 Rashba St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 72,
+        "accessible": false,
+        "mapAddress": "9 Rashba St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 124,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21668807,
+          31.77326342
+        ]
+      },
+      "properties": {
+        "name": "Shelter 810",
+        "neighborhood": "Rehavia",
+        "address": "9 Ovadia MeBartenora St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 120,
+        "accessible": false,
+        "mapAddress": "9 Ovadia MeBartenora St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 125,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.212385994916545,
+          31.771603263030787
+        ]
+      },
+      "properties": {
+        "name": "Shelter 816",
+        "neighborhood": "Rehavia",
+        "address": "50 Azza St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 96,
+        "accessible": false,
+        "mapAddress": "50 Azza St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 126,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21589868860039,
+          31.772262658494302
+        ]
+      },
+      "properties": {
+        "name": "Shelter 835",
+        "neighborhood": "Rehavia",
+        "address": "18 Arlozorov St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 152,
+        "accessible": false,
+        "mapAddress": "18 Arlozorov St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 127,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2142244,
+          31.776280894804234
+        ]
+      },
+      "properties": {
+        "name": "Shelter 972",
+        "neighborhood": "Rehavia",
+        "address": "26 AlHarizi St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 80,
+        "accessible": false,
+        "mapAddress": "26 AlHarizi St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 128,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21447234627226,
+          31.795624849266986
+        ]
+      },
+      "properties": {
+        "name": "Shelter 606",
+        "neighborhood": "Romema",
+        "address": "1 Pnina St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 64,
+        "accessible": false,
+        "mapAddress": "1 Pnina St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 129,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.20083957,
+          31.79611804
+        ]
+      },
+      "properties": {
+        "name": "Shelter 750",
+        "neighborhood": "Romema",
+        "address": "5 Zichron Ya'akov St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 104,
+        "accessible": false,
+        "mapAddress": "5 Zichron Ya'akov St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 130,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1991455,
+          31.79601192
+        ]
+      },
+      "properties": {
+        "name": "Shelter 933",
+        "neighborhood": "Romema",
+        "address": "38 HaMem Gimel St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 80,
+        "accessible": false,
+        "mapAddress": "38 HaMem Gimel St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 131,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.20174810394518,
+          31.79447697409672
+        ]
+      },
+      "properties": {
+        "name": "Shelter 975",
+        "neighborhood": "Romema",
+        "address": "15 Zichron Ya'akov St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 40,
+        "accessible": false,
+        "mapAddress": "15 Zichron Ya'akov St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 132,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.20202255,
+          31.794225449819965
+        ]
+      },
+      "properties": {
+        "name": "Shelter 975",
+        "neighborhood": "Romema",
+        "address": "17 Zichron Ya'akov St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 40,
+        "accessible": false,
+        "mapAddress": "17 Zichron Ya'akov St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 133,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.20219001743596,
+          31.793954774097028
+        ]
+      },
+      "properties": {
+        "name": "Shelter 975",
+        "neighborhood": "Romema",
+        "address": "19 Zichron Ya'akov St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 40,
+        "accessible": false,
+        "mapAddress": "19 Zichron Ya'akov St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 134,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.202196975108805,
+          31.793535512093083
+        ]
+      },
+      "properties": {
+        "name": "Shelter 975",
+        "neighborhood": "Romema",
+        "address": "21 Zichron Ya'akov St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 40,
+        "accessible": false,
+        "mapAddress": "21 Zichron Ya'akov St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 135,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.201082732781515,
+          31.795073817564752
+        ]
+      },
+      "properties": {
+        "name": "Shelter 979",
+        "neighborhood": "Romema",
+        "address": "10 Zichron Ya'akov St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 80,
+        "accessible": true,
+        "mapAddress": "10 Zichron Ya'akov St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 136,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21872527,
+          31.79755634
+        ]
+      },
+      "properties": {
+        "name": "Shelter 602",
+        "neighborhood": "Sanhedria",
+        "address": "6 HaSanhedrin St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 80,
+        "accessible": false,
+        "mapAddress": "6 HaSanhedrin St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 137,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2188737,
+          31.795412149351016
+        ]
+      },
+      "properties": {
+        "name": "Shelter 604",
+        "neighborhood": "Shmuel HaNavi",
+        "address": "8 Shimon Hacham St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 80,
+        "accessible": false,
+        "mapAddress": "8 Shimon Hacham St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 138,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.22309569,
+          31.79249233140142
+        ]
+      },
+      "properties": {
+        "name": "Shelter 616",
+        "neighborhood": "Shmuel HaNavi",
+        "address": "61 Shmuel Hanavi St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 80,
+        "accessible": false,
+        "mapAddress": "61 Shmuel Hanavi St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 139,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.22315682,
+          31.792860731292258
+        ]
+      },
+      "properties": {
+        "name": "Shelter 618",
+        "neighborhood": "Shmuel HaNavi",
+        "address": "66 Shmuel HaNavi St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 137,
+        "accessible": false,
+        "mapAddress": "66 Shmuel HaNavi St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 140,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2189116,
+          31.79461696855955
+        ]
+      },
+      "properties": {
+        "name": "Shelter 957",
+        "neighborhood": "Shmuel HaNavi",
+        "address": "19 Avinadav St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 360,
+        "accessible": false,
+        "mapAddress": "19 Avinadav St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 141,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21700218,
+          31.77014346
+        ]
+      },
+      "properties": {
+        "name": "Shelter 807",
+        "neighborhood": "Talbiya",
+        "address": "7 Benjamin Disraeli St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 92,
+        "accessible": false,
+        "mapAddress": "7 Benjamin Disraeli St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 142,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2256433,
+          31.763436661978776
+        ]
+      },
+      "properties": {
+        "name": "Shelter 679",
+        "neighborhood": "Talpiot",
+        "address": "59 Hebron Rd, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 160,
+        "accessible": false,
+        "mapAddress": "59 Hebron Rd, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 143,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.22182315,
+          31.752546089319623
+        ]
+      },
+      "properties": {
+        "name": "Shelter 688",
+        "neighborhood": "Talpiot",
+        "address": "18 Efrata St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 160,
+        "accessible": false,
+        "mapAddress": "18 Efrata St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 144,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2200234,
+          31.749094780609962
+        ]
+      },
+      "properties": {
+        "name": "Shelter 689",
+        "neighborhood": "Talpiot",
+        "address": "10 Ben Gavriel St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 72,
+        "accessible": false,
+        "mapAddress": "10 Ben Gavriel St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 145,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2234383,
+          31.74919744
+        ]
+      },
+      "properties": {
+        "name": "Shelter 690",
+        "neighborhood": "Talpiot",
+        "address": "1 Leib Yaffe St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 192,
+        "accessible": false,
+        "mapAddress": "1 Leib Yaffe St., jerusalem, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 146,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21891075,
+          31.752087774115857
+        ]
+      },
+      "properties": {
+        "name": "Shelter 691",
+        "neighborhood": "Talpiot",
+        "address": "93 Bethlehem Rd, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 352,
+        "accessible": false,
+        "mapAddress": "93 Bethlehem Rd, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 147,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.22008993,
+          31.751198866808615
+        ]
+      },
+      "properties": {
+        "name": "Shelter 940",
+        "neighborhood": "Talpiot",
+        "address": "17 Shalom Yehuda St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 80,
+        "accessible": false,
+        "mapAddress": "17 Shalom Yehuda St., Jerusalem, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 148,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21757937,
+          31.78741269
+        ]
+      },
+      "properties": {
+        "name": "Shelter 928",
+        "neighborhood": "Zichron Moshe",
+        "address": "8 Pri Hadash St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": 104,
+        "accessible": false,
+        "mapAddress": "8 Pri Hadash St., Jerusalem, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 149,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.17301330344744,
+          31.76412699989974
+        ]
+      },
+      "properties": {
+        "name": "Shelter 991",
+        "neighborhood": "Kiryat Yovel",
+        "address": "2 Avraham Sharon St, Jerusalem, Israel",
+        "shelterType": "Public Shelter",
+        "capacity": null,
+        "accessible": false,
+        "mapAddress": "2 Avraham Sharon St., Jerusalem, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 150,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.215791827115616,
+          31.777267365823803
+        ]
+      },
+      "properties": {
+        "name": "Beit Avichai",
+        "neighborhood": "Rehavia",
+        "address": "44 King George St, Jerusalem, Israel",
+        "shelterType": "Protected Parking",
+        "capacity": null,
+        "accessible": false,
+        "mapAddress": "44 King George St., Jerusalem, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 151,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.209708247427,
+          31.750919531149275
+        ]
+      },
+      "properties": {
+        "name": "Bayit Banita",
+        "neighborhood": "Talpiot",
+        "address": "14 HaUman St, Jerusalem, Israel",
+        "shelterType": "Protected Parking",
+        "capacity": null,
+        "accessible": false,
+        "mapAddress": "14 HaUman St., Jerusalem, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 152,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.20028136091587,
+          31.79133351411927
+        ]
+      },
+      "properties": {
+        "name": "Beit Yahav",
+        "neighborhood": "Romema",
+        "address": "80 Yirmiyahu St, Jerusalem, Israel",
+        "shelterType": "Protected Parking",
+        "capacity": null,
+        "accessible": false,
+        "mapAddress": "80 Yirmiyahu St., Jerusalem, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 153,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21517978975263,
+          31.784212712816448
+        ]
+      },
+      "properties": {
+        "name": "Clal Building",
+        "neighborhood": "City Center",
+        "address": "97 Jaffa St. / 42 Agripas St, Jerusalem, Israel",
+        "shelterType": "Protected Parking",
+        "capacity": null,
+        "accessible": false,
+        "mapAddress": "97 Jaffa St. / 42 Agripas St., Jerusalem, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 154,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.18600107453311,
+          31.750026940030864
+        ]
+      },
+      "properties": {
+        "name": "Hi-Tech Park 4",
+        "neighborhood": "Minhat - Malcha",
+        "address": "Hi-Tech Park, 2 Agudat Sport Hapoel Rd, Jerusalem, Israel",
+        "shelterType": "Protected Parking",
+        "capacity": null,
+        "accessible": false,
+        "mapAddress": "Hi-Tech Park, 2 Agudat Sport Hapoel Rd., Jerusalem, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 155,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.185990347427136,
+          31.750036063320643
+        ]
+      },
+      "properties": {
+        "name": "Hi-Tech Park Building 1-2 - Hamigdal Building",
+        "neighborhood": "Manahat - Malha",
+        "address": "2 Agudat Sport Hapoel Rd, Jerusalem, Israel",
+        "shelterType": "Protected Parking",
+        "capacity": null,
+        "accessible": false,
+        "mapAddress": "2 Agudat Sport Hapoel Rd., Jerusalem, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 156,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.186011803368515,
+          31.750063433170816
+        ]
+      },
+      "properties": {
+        "name": "Hi-Tech Park Building 5",
+        "neighborhood": "Manahat - Malha",
+        "address": "Hi-Tech Park, 2 Agudat Sport Hapoel Rd, Jerusalem, Israel",
+        "shelterType": "Protected Parking",
+        "capacity": null,
+        "accessible": false,
+        "mapAddress": "Hi-Tech Park, 2 Agudat Sport Hapoel Rd., Jerusalem, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 157,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1866391712211,
+          31.749565159736868
+        ]
+      },
+      "properties": {
+        "name": "Hi-Tech Park Buildings 8-9",
+        "neighborhood": "Manahat - Malha",
+        "address": "Hi-Tech Park, 2 Agudat Sport Hapoel Rd, Jerusalem, Israel",
+        "shelterType": "Protected Parking",
+        "capacity": null,
+        "accessible": false,
+        "mapAddress": "Hi-Tech Park, 2 Agudat Sport Hapoel Rd., Jerusalem, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 158,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.20335428235088,
+          31.78955542912993
+        ]
+      },
+      "properties": {
+        "name": "Central Bus Station",
+        "neighborhood": "Romema",
+        "address": "224 Jaffa St, Jerusalem, Israel",
+        "shelterType": "Protected Parking",
+        "capacity": null,
+        "accessible": false,
+        "mapAddress": "224 Jaffa St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 159,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21431678380738,
+          31.78433562250371
+        ]
+      },
+      "properties": {
+        "name": "Halonot Yerushalayim",
+        "neighborhood": "Mahane Yehuda",
+        "address": "40 Agripas St, Jerusalem, Israel",
+        "shelterType": "Protected Parking",
+        "capacity": null,
+        "accessible": false,
+        "mapAddress": "40 Agripas St., Jerusalem, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 160,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.224593974533065,
+          31.752500581278603
+        ]
+      },
+      "properties": {
+        "name": "Shanior Peleg Tzafon A6",
+        "neighborhood": "Arnona HaHadasha",
+        "address": "1 Shanior Peleg St, Jerusalem, Israel",
+        "shelterType": "Residential Protected Parking",
+        "capacity": null,
+        "accessible": false,
+        "mapAddress": "1 Shanior Peleg St., Jerusalem, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 161,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.22462300116668,
+          31.752481012094652
+        ]
+      },
+      "properties": {
+        "name": "Shanior Peleg Darom A7",
+        "neighborhood": "Arnona HaHadasha",
+        "address": "2 Shneor Peleg St, Jerusalem, Israel",
+        "shelterType": "Residential Protected Parking",
+        "capacity": null,
+        "accessible": false,
+        "mapAddress": "2 Shneor Peleg St., Jerusalem, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 162,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.18123848975243,
+          31.787355186040934
+        ]
+      },
+      "properties": {
+        "name": "Oranim",
+        "neighborhood": "Givat Shaul",
+        "address": "66 Kanfei Nesharim St, Jerusalem, Israel",
+        "shelterType": "Protected Parking",
+        "capacity": null,
+        "accessible": false,
+        "mapAddress": "66 Kanfei Nesharim St., Jerusalem, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 163,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.22716150336833,
+          31.75326482559817
+        ]
+      },
+      "properties": {
+        "name": "Bonaventura",
+        "neighborhood": "Arnona HaHadasha",
+        "address": "5 Enzo Bonaventura St, Jerusalem, Israel",
+        "shelterType": "Residential Protected Parking",
+        "capacity": null,
+        "accessible": false,
+        "mapAddress": "5 Enzo Bonaventura St., Jerusalem, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 164,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.188391874532066,
+          31.78660704819047
+        ]
+      },
+      "properties": {
+        "name": "Beit HaShinhav",
+        "neighborhood": "Givat Shaul",
+        "address": "12 Beit HaDfus St, Jerusalem, Israel",
+        "shelterType": "Protected Parking",
+        "capacity": null,
+        "accessible": false,
+        "mapAddress": "12 Beit HaDfus St., Jerusalem, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 165,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.20231020336738,
+          31.786512987782356
+        ]
+      },
+      "properties": {
+        "name": "Binyanei HaUma (ICC Jerusalem)",
+        "neighborhood": "Kiryat HaUma",
+        "address": "1 Shazar Blvd, Jerusalem, Israel",
+        "shelterType": "Protected Parking",
+        "capacity": null,
+        "accessible": false,
+        "mapAddress": "1 Shazar Blvd., Jerusalem, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 166,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.22271962883541,
+          31.782268982537506
+        ]
+      },
+      "properties": {
+        "name": "Bezalel",
+        "neighborhood": "City Center",
+        "address": "1 Yisrael Zmora St, Jerusalem, Israel",
+        "shelterType": "Protected Parking",
+        "capacity": null,
+        "accessible": false,
+        "mapAddress": "1 Yisrael Zmora St., Jerusalem, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 167,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.22681197453305,
+          31.7523542508316
+        ]
+      },
+      "properties": {
+        "name": "Gad Tedeschi",
+        "neighborhood": "Arnona HaHadasha",
+        "address": "5 Gad Tedeschi St, Jerusalem, Israel",
+        "shelterType": "Residential Protected Parking",
+        "capacity": null,
+        "accessible": false,
+        "mapAddress": "5 Gad Tedeschi St., Jerusalem, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 168,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.208925218991325,
+          31.80004470123445
+        ]
+      },
+      "properties": {
+        "name": "Golda (Mobileye)",
+        "neighborhood": "Har Hotzvim",
+        "address": "Golda Meir Blvd. west of Shlomo Halevi St, Jerusalem, Israel",
+        "shelterType": "Protected Parking",
+        "capacity": null,
+        "accessible": false,
+        "mapAddress": "Golda Meir Blvd. west of Shlomo Halevi St., Jerusalem, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 169,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.20585640336847,
+          31.75377988676469
+        ]
+      },
+      "properties": {
+        "name": "Ganei Tziyon",
+        "neighborhood": "Katamon",
+        "address": "38 Eliezer Hagadol St, Jerusalem, Israel",
+        "shelterType": "Residential Protected Parking",
+        "capacity": null,
+        "accessible": false,
+        "mapAddress": "38 Eliezer Hagadol St., Jerusalem, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 170,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.19070503220292,
+          31.78218805785295
+        ]
+      },
+      "properties": {
+        "name": "David Yellin",
+        "neighborhood": "Beit HaKerem",
+        "address": "7 Ma'agal Beit HaMidrash St, Jerusalem, Israel",
+        "shelterType": "Protected Parking",
+        "capacity": null,
+        "accessible": false,
+        "mapAddress": "7 Ma'agal Beit HaMidrash St., Jerusalem, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 171,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.18618533469712,
+          31.786671909279008
+        ]
+      },
+      "properties": {
+        "name": "Dona",
+        "neighborhood": "Givat Shaul",
+        "address": "20 Beit HaDfus St, Jerusalem, Israel",
+        "shelterType": "Protected Parking",
+        "capacity": null,
+        "accessible": false,
+        "mapAddress": "20 Beit HaDfus St., Jerusalem, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 172,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.22167707453277,
+          31.759238754683796
+        ]
+      },
+      "properties": {
+        "name": "Derech Beit Lechem (Bethlehem Road)",
+        "neighborhood": "Talpiot",
+        "address": "66 Bethlehem Rd, Jerusalem, Israel",
+        "shelterType": "Residential Protected Parking",
+        "capacity": null,
+        "accessible": false,
+        "mapAddress": "66 Bethlehem Rd., Jerusalem, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 173,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21644583582216,
+          31.767992007875165
+        ]
+      },
+      "properties": {
+        "name": "HaTeatron",
+        "neighborhood": "Talbiyeh",
+        "address": "Prof. Yaakov Shaskin St, Jerusalem, Israel",
+        "shelterType": "Protected Parking",
+        "capacity": null,
+        "accessible": false,
+        "mapAddress": "Prof. Yaakov Shaskin St., Jerusalem, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 174,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21648405025352,
+          31.757161504421042
+        ]
+      },
+      "properties": {
+        "name": "Heletz",
+        "neighborhood": "Baka",
+        "address": "8 Heletz St, Jerusalem, Israel",
+        "shelterType": "Residential Protected Parking",
+        "capacity": null,
+        "accessible": false,
+        "mapAddress": "8 Heletz St., Jerusalem, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 175,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.17523615025252,
+          31.76159358347746
+        ]
+      },
+      "properties": {
+        "name": "Tahun",
+        "neighborhood": "Kiryat Yovel",
+        "address": "13 Yaakov Tahun St, Jerusalem, Israel",
+        "shelterType": "Residential Protected Parking",
+        "capacity": null,
+        "accessible": false,
+        "mapAddress": "13 Yaakov Tahun St., Jerusalem, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 176,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.20231673220263,
+          31.790820121010785
+        ]
+      },
+      "properties": {
+        "name": "Yad Sarah",
+        "neighborhood": "Romema",
+        "address": "35 Yirmiyahu St, Jerusalem, Israel",
+        "shelterType": "Protected Parking",
+        "capacity": null,
+        "accessible": false,
+        "mapAddress": "35 Yirmiyahu St., Jerusalem, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 177,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.22718755919138,
+          31.754180046332795
+        ]
+      },
+      "properties": {
+        "name": "Yitzhak Ben Dor - Mizrach",
+        "neighborhood": "Arnona HaHadasha",
+        "address": "3 Yitzhak Ben Dor St, Jerusalem, Israel",
+        "shelterType": "Residential Protected Parking",
+        "capacity": null,
+        "accessible": false,
+        "mapAddress": "3 Yitzhak Ben Dor St., Jerusalem, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 178,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.18086268802584,
+          31.78669686771139
+        ]
+      },
+      "properties": {
+        "name": "Migdal Hanesharim (Hanesharim Tower)",
+        "neighborhood": "Givat Shaul",
+        "address": "32 Beit HaDfus St, Jerusalem, Israel",
+        "shelterType": "Protected Parking",
+        "capacity": null,
+        "accessible": false,
+        "mapAddress": "32 Beit HaDfus St., Jerusalem, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 179,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.20215290336726,
+          31.79087479802377
+        ]
+      },
+      "properties": {
+        "name": "Habira Towers",
+        "neighborhood": "Romema",
+        "address": "39 Yirmiyahu St, Jerusalem, Israel",
+        "shelterType": "Protected Parking",
+        "capacity": null,
+        "accessible": false,
+        "mapAddress": "39 Yirmiyahu St., Jerusalem, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 180,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21948340521556,
+          31.78027286168596
+        ]
+      },
+      "properties": {
+        "name": "Museum of Tolerance",
+        "neighborhood": "City Center",
+        "address": "33 Hillel St, Jerusalem, Israel",
+        "shelterType": "Protected Parking",
+        "capacity": null,
+        "accessible": false,
+        "mapAddress": "33 Hillel St., Jerusalem, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 181,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2249100757418,
+          31.777341283715252
+        ]
+      },
+      "properties": {
+        "name": "Mamilla",
+        "neighborhood": "Mamilla",
+        "address": "6 Yitzhak Kariv St, Jerusalem, Israel",
+        "shelterType": "Protected Parking",
+        "capacity": null,
+        "accessible": false,
+        "mapAddress": "6 Yitzhak Kariv St., Jerusalem, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 182,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21281430336758,
+          31.78040776294547
+        ]
+      },
+      "properties": {
+        "name": "Menorah",
+        "neighborhood": "City Center",
+        "address": "3 Menora St, Jerusalem, Israel",
+        "shelterType": "Protected Parking",
+        "capacity": null,
+        "accessible": false,
+        "mapAddress": "3 Menora St., Jerusalem, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 183,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.22514884548831,
+          31.77733144803239
+        ]
+      },
+      "properties": {
+        "name": "Parking lot across from David's Citadel",
+        "neighborhood": "Mamilla",
+        "address": "7 Yitzhak Kariv St, Jerusalem, Israel",
+        "shelterType": "Protected Parking",
+        "capacity": null,
+        "accessible": false,
+        "mapAddress": "7 Yitzhak Kariv St., Jerusalem, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 184,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.22397310008403,
+          31.78449857399372
+        ]
+      },
+      "properties": {
+        "name": "Ministry of Education",
+        "neighborhood": "City Center",
+        "address": "2 Dvorah Haneviah St, Jerusalem, Israel",
+        "shelterType": "Protected Parking",
+        "capacity": null,
+        "accessible": false,
+        "mapAddress": "2 Dvorah Haneviah St., Jerusalem, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 185,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.22492106277103,
+          31.77993978283809
+        ]
+      },
+      "properties": {
+        "name": "Safra",
+        "neighborhood": "City Center",
+        "address": "26 Jaffa St. / 7 Shivtei Yisrael St, Jerusalem, Israel",
+        "shelterType": "Protected Parking",
+        "capacity": null,
+        "accessible": false,
+        "mapAddress": "26 Jaffa St. / 7 Shivtei Yisrael St., Jerusalem, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 186,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.17173718987439,
+          31.761571183776763
+        ]
+      },
+      "properties": {
+        "name": "Chile",
+        "neighborhood": "Kiryat Yovel",
+        "address": "6 Chile St, Jerusalem, Israel",
+        "shelterType": "Residential Protected Parking",
+        "capacity": null,
+        "accessible": false,
+        "mapAddress": "6 Chile St., Jerusalem, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 187,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.20843918987339,
+          31.794966726893914
+        ]
+      },
+      "properties": {
+        "name": "Rav Shefa",
+        "neighborhood": "Romema",
+        "address": "16 Shamgar St, Jerusalem, Israel",
+        "shelterType": "Protected Parking",
+        "capacity": null,
+        "accessible": false,
+        "mapAddress": "16 Shamgar St., Jerusalem, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 188,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2157816492801,
+          31.781813737867314
+        ]
+      },
+      "properties": {
+        "name": "Rajuan",
+        "neighborhood": "City Center",
+        "address": "6 Aliash St, Jerusalem, Israel",
+        "shelterType": "Protected Parking",
+        "capacity": null,
+        "accessible": false,
+        "mapAddress": "6 Aliash St., Jerusalem, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 189,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21851141686136,
+          31.781154296556917
+        ]
+      },
+      "properties": {
+        "name": "Shamai 10",
+        "neighborhood": "City Center",
+        "address": "10 Shamai St, Jerusalem, Israel",
+        "shelterType": "Protected Parking",
+        "capacity": null,
+        "accessible": false,
+        "mapAddress": "10 Shamai St., Jerusalem, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 190,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21891563581359,
+          31.781422763496103
+        ]
+      },
+      "properties": {
+        "name": "Shamai 21",
+        "neighborhood": "City Center",
+        "address": "21 Shamai St, Jerusalem, Israel",
+        "shelterType": "Protected Parking",
+        "capacity": null,
+        "accessible": false,
+        "mapAddress": "21 Shamai St., Jerusalem, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 191,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21787461858919,
+          31.779397304590315
+        ]
+      },
+      "properties": {
+        "name": "Yerushalayim Zahav",
+        "neighborhood": "City Center",
+        "address": "14 Rabbi Akiva St, Jerusalem, Israel",
+        "shelterType": "Protected Parking",
+        "capacity": null,
+        "accessible": false,
+        "mapAddress": "14 Rabbi Akiva St., Jerusalem, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 192,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.20910844928173,
+          31.75062443885658
+        ]
+      },
+      "properties": {
+        "name": "Lev Talpiot",
+        "neighborhood": "Talpiot",
+        "address": "17 HaUman St, Jerusalem, Israel",
+        "shelterType": "Protected Parking",
+        "capacity": null,
+        "accessible": false,
+        "mapAddress": "17 HaUman St., Jerusalem, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 193,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21568540009222,
+          31.781451035075712
+        ]
+      },
+      "properties": {
+        "name": "City Tower (Migdal Ha'ir)",
+        "neighborhood": "City Center",
+        "address": "34 Ben Yehuda St, Jerusalem, Israel",
+        "shelterType": "Protected Parking",
+        "capacity": null,
+        "accessible": false,
+        "mapAddress": "34 Ben Yehuda St., Jerusalem, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 194,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21797370509829,
+          31.779959182790243
+        ]
+      },
+      "properties": {
+        "name": "Migdalei Yerushalayim",
+        "neighborhood": "City Center",
+        "address": "6 Rabbi Akiva St, Jerusalem, Israel",
+        "shelterType": "Protected Parking",
+        "capacity": null,
+        "accessible": false,
+        "mapAddress": "6 Rabbi Akiva St., Jerusalem, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 195,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2287387627705,
+          31.790028541779872
+        ]
+      },
+      "properties": {
+        "name": "Etz Hazayit Hotel",
+        "neighborhood": "Shimon HaTzadik",
+        "address": "26 Saint George St, Jerusalem, Israel",
+        "shelterType": "Protected Parking",
+        "capacity": null,
+        "accessible": false,
+        "mapAddress": "26 Saint George St., Jerusalem, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 196,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21523358609901,
+          31.78267031342805
+        ]
+      },
+      "properties": {
+        "name": "Mesilat David",
+        "neighborhood": "Mahane Yehuda",
+        "address": "17 Mesilat Yesharim St, Jerusalem, Israel",
+        "shelterType": "Protected Parking",
+        "capacity": null,
+        "accessible": false,
+        "mapAddress": "17 Mesilat Yesharim St., Jerusalem, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 197,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21013558975252,
+          31.785399089197544
+        ]
+      },
+      "properties": {
+        "name": "Shukanyon",
+        "neighborhood": "Mahane Yehuda",
+        "address": "88 Agripas St, Jerusalem, Israel",
+        "shelterType": "Protected Parking",
+        "capacity": null,
+        "accessible": false,
+        "mapAddress": "88 Agripas St, Jerusalem, Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 198,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.205325467035486,
+          31.78974972250061
+        ]
+      },
+      "properties": {
+        "name": "Sha'arei Ha'ir",
+        "neighborhood": "Romema",
+        "address": "216 Jaffa St, Jerusalem, Israel",
+        "shelterType": "Protected Parking",
+        "capacity": null,
+        "accessible": false,
+        "mapAddress": "216 Jaffa St, Jerusalem, Israel"
+      }
+    }
+  ]
+}

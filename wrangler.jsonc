@@ -1,0 +1,28 @@
+{
+  "name": "miklat-mcp",
+  "account_id": "81ee9810726226b99b56e4d84ffac020",
+  "main": "src/index.ts",
+  "compatibility_date": "2025-04-01",
+  "compatibility_flags": ["nodejs_compat"],
+  "durable_objects": {
+    "bindings": [
+      {
+        "name": "MCP_OBJECT",
+        "class_name": "MiklatMCP"
+      }
+    ]
+  },
+  "migrations": [
+    {
+      "tag": "v1",
+      "new_sqlite_classes": ["MiklatMCP"]
+    }
+  ],
+  "rules": [
+    {
+      "type": "Data",
+      "globs": ["src/data/**/*.json"],
+      "fallthrough": true
+    }
+  ]
+}
