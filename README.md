@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/logo.png" alt="Miklat MCP" width="500">
+</p>
+
 # Miklat MCP
 
 An MCP (Model Context Protocol) server that helps AI agents find public shelters (miklatim tziburim) in Israel. Currently supports Jerusalem with 198 shelters.
