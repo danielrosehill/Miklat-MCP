@@ -14,7 +14,22 @@ https://mcp.jlmshelters.com/mcp
 
 Connect to this URL using any MCP-compatible client with streamable HTTP transport.
 
-For setup instructions with ChatGPT, Claude, and other AI tools, see the [Integration Guide](docs/chatgpt-setup.md).
+### Client Configuration
+
+Add this to your MCP client config (e.g. Claude Desktop, Claude Code, Cursor, etc.):
+
+```json
+{
+  "mcpServers": {
+    "miklat": {
+      "type": "streamableHttp",
+      "url": "https://mcp.jlmshelters.com/mcp"
+    }
+  }
+}
+```
+
+For ChatGPT and other platform-specific setup, see the [Integration Guide](docs/chatgpt-setup.md).
 
 ## Available Tools
 
