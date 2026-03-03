@@ -14,6 +14,8 @@ https://mcp.jlmshelters.com/mcp
 
 Connect to this URL using any MCP-compatible client with streamable HTTP transport.
 
+For setup instructions with ChatGPT, Claude, and other AI tools, see the [Integration Guide](docs/chatgpt-setup.md).
+
 ## Available Tools
 
 | Tool | Parameters | Description |
@@ -24,6 +26,9 @@ Connect to this URL using any MCP-compatible client with streamable HTTP transpo
 | `get_shelter_by_id` | `city`, `id` | Get a single shelter by its feature ID |
 | `get_stats` | `city` | Summary stats: total count, breakdown by type, capacity totals |
 | `list_cities` | *(none)* | List all supported cities |
+| `get_directions_link` | `city`, `shelter_id`, `origin_latitude`, `origin_longitude`, `app?` | Google Maps / Waze navigation links to a shelter |
+| `filter_shelters` | `city`, `shelter_type?`, `min_capacity?`, `accessible?`, `limit?` | Filter shelters by type, capacity, accessibility |
+| `list_shelters_in_neighborhood` | `city`, `neighborhood`, `limit?` | List all shelters in a specific neighborhood |
 
 ### Supported Cities
 
@@ -62,4 +67,6 @@ Shelter data is sourced from the [JLM-Shelters-Dot-Com](https://github.com/danie
 
 ## Disclaimer
 
-This tool is provided for informational purposes only. **Do not rely on this data for personal safety or emergency preparedness.** Always verify shelter locations with official municipal sources and follow instructions from local authorities during emergencies.
+This tool is provided for informational purposes only. Shelter data is gathered **periodically** from official sources and **no guarantee is offered as to its accuracy or completeness**. Shelters may be added, removed, or changed between updates. **Do not rely solely on this data for personal safety or emergency preparedness.** Always verify shelter locations with official municipal sources and follow instructions from local authorities during emergencies.
+
+All MCP tool responses include a short disclaimer reminding users of these limitations.
