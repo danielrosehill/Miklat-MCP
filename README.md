@@ -44,6 +44,14 @@ npx @anthropic-ai/mcp-inspector
 # Point it at http://localhost:8787/mcp
 ```
 
+## Cloudflare Configuration
+
+The parent domain `jlmshelters.com` has a WAF custom rule ("Israel Only") that blocks non-Israeli traffic. The MCP subdomain is excluded so it can be accessed globally:
+
+```
+(ip.src.country ne "IL" and http.host ne "mcp.jlmshelters.com")
+```
+
 ## Data Source
 
 Shelter data is sourced from the [JLM-Shelters-Dot-Com](https://github.com/danielrosehill/JLM-Shelters-Dot-Com) project. Licensed under ODbL (Open Database License).
