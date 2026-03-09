@@ -51,7 +51,9 @@ For ChatGPT and other platform-specific setup, see the [Integration Guide](docs/
 
 ## Adding New Cities
 
-Place a GeoJSON file at `src/data/<city>/shelters.json` following the same schema as the Jerusalem data, then register it in the `cityData` map in `src/index.ts`.
+To contribute shelter data for a new city, submit a pull request to the upstream [Miklat-MCP-Data](https://github.com/danielrosehill/Miklat-MCP-Data) repository with a GeoJSON file at `data/<city>/shelters.json` following the documented schema.
+
+For MCP server development: place the GeoJSON file at `src/data/<city>/shelters.json` and register it in the `cityData` map in `src/index.ts`.
 
 ## Development
 
@@ -78,7 +80,11 @@ The parent domain `jlmshelters.com` has a WAF custom rule ("Israel Only") that b
 
 ## Data Source
 
-Shelter data is sourced from the [JLM-Shelters-Dot-Com](https://github.com/danielrosehill/JLM-Shelters-Dot-Com) project. Licensed under ODbL (Open Database License).
+Shelter geodata is maintained in the [Miklat-MCP-Data](https://github.com/danielrosehill/Miklat-MCP-Data) repository, which serves as the upstream data source for this MCP server. Data is periodically pulled from that repository and integrated here.
+
+**Want to contribute shelter data?** Submit a pull request to [Miklat-MCP-Data](https://github.com/danielrosehill/Miklat-MCP-Data) with new or corrected shelter locations. See the contributing guidelines there for the required GeoJSON schema and data quality standards.
+
+Original Jerusalem data sourced from the [JLM-Shelters-Dot-Com](https://github.com/danielrosehill/JLM-Shelters-Dot-Com) project. Licensed under ODbL (Open Database License).
 
 ## Disclaimer
 
